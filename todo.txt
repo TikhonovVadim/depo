@@ -1,1 +1,2 @@
 1. Take a few lesson on git now!
+2. Get knowledge and skills on git.
