@@ -1,5 +1,6 @@
-Ётот репозиторий создан дл€ тренировки с git и github. 
+Ётот репозиторий создан дл€ тренировки с git и GitHub. 
 ¬ файле readme.md основна€ информаци€ по работе с git и github моими словами.
 
-This repository was created for training with git and github. 
+This repository was created for training with git and GitHub. 
 In the file readme.md basic information on working with git and github in my words.
+
