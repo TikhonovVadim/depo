@@ -58,3 +58,6 @@ https://githowto.com/ru
 
 Шпаргалка по основным командам git  
 https://github.com/cyberspacedk/Git-commands
+
+Статья на Хабр "30 основных команд git"
+https://habr.com/ru/companies/ruvds/articles/599929/
