@@ -159,3 +159,13 @@ graph LR;
 	- staged (Changes to be committed в выводе git status);
 	- modified (Changes not staged for commit);
 	- untracked (Untracked files).
+	
+	
+Правила для сообщений в коммитах
+	- сообщение коммита легко читается;
+	- сообщение информативное;
+	- все сообщения оформлены в одном стиле
+	
+	Есть различные стили (Conventional Commits)
+	- корпоративный   https://www.conventionalcommits.org/ru/v1.0.0-beta.4/#спецификация
+	- Git Hub стлиль
