@@ -68,7 +68,7 @@ https://habr.com/ru/companies/ruvds/articles/599929/
 graph LR;
   untracked -- "git add" --> staged;
   staged    -- "git commit -m 'описание коммита' "     --> tracked/comitted;
-  modified  -- "git add" --> staged;
+  tracked/comitted  --> modified (внесли изменения в файл)  -- "git add" --> staged;
 
 %% стрелка без текста для примера: 
   A --> B;
