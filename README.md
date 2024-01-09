@@ -145,11 +145,11 @@ HEAD — всему голова
 ```mermaid
 graph LR;
   untracked -- "git add" --> staged;
-  staged    -- "git commit -m 'описание коммита' "     --> tracked/comitted;
-  tracked/comitted  --> modified (внесли изменения в файл)  -- "git add" --> staged;
-
-%% стрелка без текста для примера: 
-  A --> B;
+  staged    -- "git commit -m 'описание коммита' "  --> tracked/comitted;
+  
+  %% tracked/comitted  --> modified (внесли изменения в файл)  -- "git add" --> staged;
+  %% комментарий
+  
 ```
 
 Какие состояния показывает git status
