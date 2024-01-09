@@ -142,6 +142,7 @@ HEAD — всему голова
 	
 Схема по статусам файлов в git (код mermaid  https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
 
+
 ```mermaid
 graph LR;
   untracked -- "git add" --> staged;
@@ -149,8 +150,9 @@ graph LR;
   
   %% tracked/comitted  --> modified (внесли изменения в файл)  -- "git add" --> staged;
   %% комментарий
-  
+
 ```
+
 
 Какие состояния показывает git status
 	Большинство файлов в типичном проекте будут находиться в состоянии tracked (то есть закоммичены и не изменены после коммита). 
